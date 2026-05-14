@@ -44,6 +44,7 @@ I'm actively working on projects to fill this profile. Here's what's coming:
 - 📁 **File Organizer CLI** — Python script that auto-sorts a messy downloads folder by type and date
 - 📊 **Data Dashboard** — pandas + matplotlib analysis of a public dataset (TBD: weather or finance)
 - 🤖 **Automation Script** — web scraper or task automator using requests + BeautifulSoup
+- 🔒 ****FlaskAuth** - A Python/Flask application demonstrating OAuth2 Authorization Code Flow 
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
